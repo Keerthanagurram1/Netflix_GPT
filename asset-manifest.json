@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Keerthanagurram1/Netflix_GPT/static/css/main.f6c9f53e.css",
+    "main.js": "/Keerthanagurram1/Netflix_GPT/static/js/main.84ed80ab.js",
+    "static/js/453.1c29ee80.chunk.js": "/Keerthanagurram1/Netflix_GPT/static/js/453.1c29ee80.chunk.js",
+    "index.html": "/Keerthanagurram1/Netflix_GPT/index.html",
+    "main.f6c9f53e.css.map": "/Keerthanagurram1/Netflix_GPT/static/css/main.f6c9f53e.css.map",
+    "main.84ed80ab.js.map": "/Keerthanagurram1/Netflix_GPT/static/js/main.84ed80ab.js.map",
+    "453.1c29ee80.chunk.js.map": "/Keerthanagurram1/Netflix_GPT/static/js/453.1c29ee80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6c9f53e.css",
+    "static/js/main.84ed80ab.js"
+  ]
+}
